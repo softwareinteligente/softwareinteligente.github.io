@@ -415,7 +415,7 @@ button {
     width: 100%;
     float: left;
     background-color: #000;
-    margin-top: 70px;
+    margin-top: 0px;
 }
 
 .about_taital {
@@ -755,7 +755,7 @@ textarea#comment.massage-bt::placeholder {
     float: left;
     background-color: #1c1d1d;
     height: auto;
-    margin-top: 80px;
+    margin-top: 0px;
     padding-bottom: 80px;
 }
 
