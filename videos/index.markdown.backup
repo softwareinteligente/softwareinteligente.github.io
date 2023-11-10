@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+  </head>
+  <body>
+    <div class="content">
+      <nav>
+        <a href="http://www.softwareinteligente.co">Inicio</a>
+        <a href="https://softwareinteligente.github.io/#contactenos">Contáctenos</a>
+      </nav>
+
+      <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline"></h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="" itemprop="datePublished">
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    # Suite Ecuapass-Docs: 
+Manejo **Intelegiente** de los documentos del ECUAPASS
+
+
+  </div><a class="u-url" href="/index.markdown.backup" hidden></a>
+</article>
+
+
+      <hr>
+      <footer>Gracias por visitar www.softwareinteligente.co</footer>
+    </div>
+  </body>
+</html>
