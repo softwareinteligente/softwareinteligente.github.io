@@ -14,6 +14,17 @@
 .text-container {
   max-width: 800px; /* Set your desired maximum width */
   margin: 0 auto; /* To center the container */
+  font-size: 18px;
+}
+
+.parrafo1 {
+  color: rgba(0, 0, 0, 0.678);
+  width: 35%;
+  text-align: center;
+  font-size: 18px;
+  margin: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 /*# sourceMappingURL=styles.css.map */
