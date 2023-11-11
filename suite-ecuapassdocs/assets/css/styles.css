@@ -1,0 +1,19 @@
+.spaced-images {
+  margin-right: 50px; /* Adjust as needed */
+}
+
+.image-container {
+  text-align: center;
+}
+
+.image-container img {
+  margin: 10px; /* Adjust as needed */
+  display: inline-block;
+}
+
+.text-container {
+  max-width: 800px; /* Set your desired maximum width */
+  margin: 0 auto; /* To center the container */
+}
+
+/*# sourceMappingURL=styles.css.map */
