@@ -2,6 +2,7 @@
 Website created using 'hugo' tool
 
 ## LOG
+Mar/09: r1.02 Trying to fix image load.
 Mar/08: r0.30 New Website created using 'hugo' tool. Added a header image and a Cartaporte video.
 
 

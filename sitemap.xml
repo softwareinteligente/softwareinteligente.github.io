@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ejemplo.com/contacto/</loc>
+    <loc>https://softwareinteligente.github.io/contacto/</loc>
     <lastmod>2023-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ejemplo.com/</loc>
+    <loc>https://softwareinteligente.github.io/</loc>
     <lastmod>2023-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ejemplo.com/acercade/</loc>
+    <loc>https://softwareinteligente.github.io/acercade/</loc>
   </url><url>
-    <loc>http://ejemplo.com/categories/</loc>
+    <loc>https://softwareinteligente.github.io/categories/</loc>
   </url><url>
-    <loc>http://ejemplo.com/productos/ecuapassbot/</loc>
+    <loc>https://softwareinteligente.github.io/productos/ecuapassbot/</loc>
   </url><url>
-    <loc>http://ejemplo.com/productos/ecuapassdoc/</loc>
+    <loc>https://softwareinteligente.github.io/productos/ecuapassdoc/</loc>
   </url><url>
-    <loc>http://ejemplo.com/productos/</loc>
+    <loc>https://softwareinteligente.github.io/productos/</loc>
   </url><url>
-    <loc>http://ejemplo.com/tags/</loc>
+    <loc>https://softwareinteligente.github.io/tags/</loc>
   </url>
 </urlset>
