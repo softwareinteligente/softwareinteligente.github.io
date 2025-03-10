@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/lg/BIO/ecuapassdocs/docs/marketing/web/hugo-website/software-inteligente",
+	"sourceRoot": "/home/lg/BIO/ecuapassdocs/docs/marketing/web/hugo-software-inteligente",
 	"sources": [
 		"ananke/css/main.css"
 	],
