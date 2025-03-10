@@ -48,7 +48,7 @@
 
   <meta itemprop="name" content="Ecuapass-Bot">
   <meta itemprop="description" content="Transmisión automática de documentos al ECUAPASS">
-  <meta itemprop="wordCount" content="130">
+  <meta itemprop="wordCount" content="142">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Ecuapass-Bot">
   <meta name="twitter:description" content="Transmisión automática de documentos al ECUAPASS">
@@ -63,10 +63,12 @@
   
   
 
+  <link rel="stylesheet" href="/css/custom.css">
+
   <header class=" contain bg-left" style="background-image: url('https://softwareinteligente.github.io/images/c3po-face-170.png');">
     
     <div class="bg-black-80">
-      <nav class="pv3 ph3 ph4-ns" role="navigation">
+      <nav class="pv0 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
     <a href="/" class="f3 fw2 hover-white no-underline light-blue dib">
       
@@ -111,7 +113,7 @@
   </div>
 </nav>
 
-      <div class="tc-l pv4 pv2-l ph3 ph4-ns">
+      <div class="tc-l pv2 pv1-l ph3 ph4-ns">
         <h1 class="f2 f-subheadline-l fw6 yellow mb0 lh-title">
           Ecuapass-Bot
         </h1>
@@ -131,10 +133,38 @@
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tj-l center measure-wide lh-copy mid-gray"><h2 id="ecuapassbot">EcuapassBot</h2>
 <p>Ecuapass-Bot es una herramienta novedosa que transmite (digita) automáticamente los documentos de Transporte Terreste Internacional (Cartas de Porte, Manifiestos) al sistema ECUAPASS.</p>
 <p>
-<video width="640" height="360" controls>
-  <source src="/videos/ecuapassbot6-cartaporte-2025-TEXTLINES.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div class="video-container">
+    <div class="video-wrapper">
+        <h3>Carta de Porte</h3>
+        <video controls>
+            <source src="/videos/video-ecuapassbot6-cartaporte-AD-2024-TEXT.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    <div class="video-wrapper">
+        <h3>Manifiesto</h3>
+        <video controls>
+            <source src="/videos/video-ecuapassbot6-manifiesto-AD-2024-TEXT.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
+<style>
+    .video-container {
+        display: flex;
+        justify-content: space-between;
+    }
+    .video-wrapper {
+        text-align: center;
+    }
+    .video-wrapper h3 {
+        margin-bottom: 10px;
+    }
+    video {
+        width: 320px;
+        height: 180px;
+    }
+</style>
 </p>
 <h2 id="características">Características</h2>
 <ul>
