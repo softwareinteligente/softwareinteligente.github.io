@@ -2,8 +2,9 @@
 Website created using 'hugo' tool
 
 ## LOG
-Mar/12: r1.07 Modified video layout and display size 
+Mar/12: r1.08 Videos in responsive mode
 
+Mar/12: r1.07 Modified video layout and display size 
 Mar/10: r1.06 Added videos to suite-ecuapassdocs
 Mar/10: r1.05 Reduced video size: Ecuapass-Docs Cartaporte and Manifiesto 
 Mar/10: r1.04 Added creation videos: Ecuapass-Docs Cartaporte and Manifiesto 

@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://softwareinteligente.github.io/acercade/</loc>
+    <loc>http://localhost:1313/acercade/</loc>
   </url><url>
-    <loc>https://softwareinteligente.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://softwareinteligente.github.io/contacto/</loc>
+    <loc>http://localhost:1313/contacto/</loc>
   </url><url>
-    <loc>https://softwareinteligente.github.io/productos/ecuapass-bot/</loc>
+    <loc>http://localhost:1313/productos/ecuapass-bot/</loc>
   </url><url>
-    <loc>https://softwareinteligente.github.io/productos/ecuapass-suite/</loc>
+    <loc>http://localhost:1313/productos/ecuapass-suite/</loc>
   </url><url>
-    <loc>https://softwareinteligente.github.io/productos/suite-ecuapassdocs/</loc>
+    <loc>http://localhost:1313/productos/suite-ecuapassdocs/</loc>
   </url><url>
-    <loc>https://softwareinteligente.github.io/productos/ecuapass-docs/</loc>
+    <loc>http://localhost:1313/productos/ecuapass-docs/</loc>
   </url><url>
-    <loc>https://softwareinteligente.github.io/productos/</loc>
+    <loc>http://localhost:1313/productos/</loc>
   </url><url>
-    <loc>https://softwareinteligente.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://softwareinteligente.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
