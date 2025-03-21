@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EcuapassDoc on Software Inteligente</title>
-    <link>http://localhost:1313/productos/ecuapass-docs/</link>
+    <link>https://softwareinteligente.github.io/productos/ecuapass-docs/</link>
     <description>Recent content in EcuapassDoc on Software Inteligente</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <atom:link href="http://localhost:1313/productos/ecuapass-docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://softwareinteligente.github.io/productos/ecuapass-docs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
