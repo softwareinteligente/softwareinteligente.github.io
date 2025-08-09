@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>es-es</language>
     <atom:link href="https://softwareinteligente.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://softwareinteligente.github.io/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://softwareinteligente.github.io/links/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;Redirecting…&lt;/title&gt;&#xA;  &lt;script&gt;&#xA;    // Central map of slugs -&gt; targets&#xA;    const MAP = {&#xA;      instalacion: &#34;https://youtu.be/oHNBdp1jUzY&#34;,&#xA;      cartaporte: &#34;https://youtu.be/k1EAHYGkRfI&#34;,&#xA;      manifiesto: &#34;https://youtu.be/R2y7PsGtiXE&#34;&#xA;    };&#xA;&#xA;    (function () {&#xA;      const slug = (location.hash || &#34;&#34;).replace(/^#/, &#34;&#34;).trim();&#xA;      const target = MAP[slug];&#xA;      if (target) {&#xA;        location.replace(target);   // no history entry&#xA;      } else {&#xA;        // fallback (optional): send to a hub page&#xA;        location.replace(&#34;/videos/&#34;);&#xA;      }&#xA;    })();&#xA;  &lt;/script&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;Redirecting…&lt;/body&gt;&#xA;&lt;/html&gt;</description>
+    </item>
   </channel>
 </rss>
