@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentos on FronterIA Software</title>
+    <link>https://softwareinteligente.github.io/documentos/</link>
+    <description>Recent content in Documentos on FronterIA Software</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <atom:link href="https://softwareinteligente.github.io/documentos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://softwareinteligente.github.io/documentos/info-carta-de-porte-internacional-carretera-cpic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://softwareinteligente.github.io/documentos/info-carta-de-porte-internacional-carretera-cpic/</guid>
+      <description>&lt;h1 id=&#34;carta-de-porte-internacional-por-carretera-cpic&#34;&gt;Carta de Porte Internacional por Carretera (CPIC)&lt;/h1&gt;&#xA;&lt;p&gt;La Carta de Porte Internacional por Carretera (CPIC) en Ecuador es un documento electrónico obligatorio que se genera y gestiona a través del portal Ecuapass (ecuapass.aduana.gob.ec), permitiendo a los operadores registrar información sobre cargas y manifiestos para trámites aduaneros, facilitando el tránsito y control de mercancías entre países, y es fundamental para cumplir con la normativa de la Aduana Ecuatoriana.&lt;/p&gt;&#xA;&lt;h2 id=&#34;cómo-se-genera-la-cpic-en-ecuapass&#34;&gt;¿Cómo se genera la CPIC en Ecuapass?&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Acceso: Ingrese a su cuenta en el portal de Ecuapass (ecuapass.aduana.gob.ec).&lt;/li&gt;&#xA;&lt;li&gt;Ruta: Navegue a: Trámites operativos &amp;gt; Elaboración de e-Doc &amp;gt; Cargas &amp;gt; Carta de Porte Internacional por Carretera – CPIC.&lt;/li&gt;&#xA;&lt;li&gt;Llenado de datos: Complete todos los campos obligatorios con la información de la carga, remitente, destinatario, transportista y detalles del envío.&lt;/li&gt;&#xA;&lt;li&gt;Transmisión: Una vez completada, transmita el documento para su registro en el sistema.&lt;/li&gt;&#xA;&lt;li&gt;Verificación: Puede consultar el estado del trámite en la misma ruta (Integración de estados del trámite) usando el número de entrega.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;puntos-clave&#34;&gt;Puntos Clave:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Obligatoriedad: Es un requisito para el transporte de mercancías, especialmente en tránsito aduanero internacional, y su omisión puede acarrear sanciones.&lt;/li&gt;&#xA;&lt;li&gt;Documento Electrónico: Se crea y gestiona completamente en línea a través del sistema Ecuapass.&lt;/li&gt;&#xA;&lt;li&gt;Integración: Se relaciona con otros documentos como el Manifiesto Terrestre (MTI) y la Declaración de Tránsito Aduanero Internacional (DTAI).&lt;/li&gt;&#xA;&lt;li&gt;Correcciones/Retransmisiones: Existen procesos específicos para correcciones (Retransmisión) o anulaciones dentro del sistema, utilizando botones como &amp;ldquo;Traer&amp;rdquo; para modificar un envío inicial.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;En resumen, la CPIC es el documento electrónico que formaliza y controla el movimiento de cargas terrestres en Ecuador, y su manejo correcto en Ecuapass es vital para la logística internacional.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://softwareinteligente.github.io/documentos/info-declaracion-transito-aduanero-internacional-dtai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://softwareinteligente.github.io/documentos/info-declaracion-transito-aduanero-internacional-dtai/</guid>
+      <description>&lt;h1 id=&#34;declaración-de-tránsito-aduanero-internacional-dtai&#34;&gt;Declaración de Tránsito Aduanero Internacional (DTAI)&lt;/h1&gt;&#xA;&lt;p&gt;La Declaración de Tránsito Aduanero Internacional (DTAI) en Ecuador se gestiona a través del sistema Ecuapass, es el documento único andino para mover mercancías bajo control aduanero entre países, incluyendo detalles de carga, transportista y rutas, y se elabora en la plataforma. Se crea dentro de Ecuapass en la sección de trámites operativos, eligiendo el módulo DTAI y llenando datos de transporte (CPIC/MTI) para generar la declaración que permite el movimiento seguro de mercancías desde una aduana de carga a una de destino, con sus respectivos controles y sellos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://softwareinteligente.github.io/documentos/info-manifiesto-carga-internacional-carretera-mcic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://softwareinteligente.github.io/documentos/info-manifiesto-carga-internacional-carretera-mcic/</guid>
+      <description>&lt;h2 id=&#34;-manifiesto-de-carga-internacional-por-carretera-mcic&#34;&gt;🚚 Manifiesto de Carga Internacional por Carretera (MCIC)&lt;/h2&gt;&#xA;&lt;p&gt;El MCIC, también conocido como &lt;strong&gt;Manifiesto de Carga Internacional (MCI)&lt;/strong&gt; en el marco de la Comunidad Andina de Naciones (CAN), es un documento oficial fundamental en el transporte de mercancías por carretera que cruzan fronteras internacionales (especialmente entre países miembros de la CAN: Bolivia, Colombia, Ecuador y Perú).&lt;/p&gt;&#xA;&lt;h3 id=&#34;propósito-principal&#34;&gt;&lt;strong&gt;Propósito Principal&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Sirve como un documento de &lt;strong&gt;control aduanero&lt;/strong&gt; que declara y documenta el tránsito de mercancías entre países para fines aduaneros.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
